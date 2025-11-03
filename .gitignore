@@ -1,0 +1,6 @@
+﻿bin/
+obj/
+person.sqlite
+person.sqlite-shm
+person.sqlite-wal
+.idea/
